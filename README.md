@@ -1,3 +1,3 @@
-# flutter_application_1
+# Diseño de app
 
-A new Flutter project.
+Roberto Josue Orellana Pineda - 20212020130.
